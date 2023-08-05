@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Mike Janssen, Ph.D."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - sidebar:teaching
+      - href: research.qmd
+        text: Research
+      - href: oer.qmd
+        text: OER
+      - about.qmd
+      
+  sidebar:
+    - id: teaching
+      title: "Teaching"
+      background: light
+      collapse-level: 1
+      style: "floating"
+      contents:
+        - teaching.qmd        
+        - courses/glm/glm_f23.qmd
+        - courses/ra/ra_f23.qmd
+        - courses/hom/hom_f23.qmd
+      
+format:
+  html:
+    theme:
+        light: flatly
+        dark: darkly
+    css: styles.css
+    toc: true
+
+

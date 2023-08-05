@@ -1,0 +1,35 @@
+---
+title: "Welcome!"
+sidebar: false
+---
+
+You have reached the homepage of [Dr. Mike Janssen](https://www.dordt.edu/people/mike-janssen), Associate Professor of Mathematics at [Dordt University](http://dordt.edu).
+
+
+
+## Teaching
+
+I have taught a wide variety of mathematics courses throughout my 15 years in higher education. My courses aim to create space in which students are offered the experience of _doing_ mathematics. I want them to deeply understand that mathematics is a cultural activity practiced by particular people in a particular time and place. Thus, I want my students to experience mathematics as working mathematicians do: the questioning, the struggle, and ultimately, the joy of discovery.
+
+To that end, I incorporate [active/inquiry-based learning](http://www.inquirybasedlearning.org) in (nearly) all of my classes. The particular type of active learning depends a great deal on the students and the class, but students who take part in my courses should know that they will be expected to dig deeply, struggle, and learn a lot. 
+
+I am also interested in the use of alternative assessment practices in my courses to encourage a growth mindset and student mastery of core concepts.
+
+For more, see my [teaching page](teaching.html) or my [teaching statement](docs/Janssen-TeachingStatement.pdf).
+
+## Research Interests
+
+My research interests are varied. Mathematically, they could broadly be described as exploring the connections between commutative algebra (usually symbolic powers of homogeneous ideals) and other areas of mathematics, including algebraic geometry and graph theory. A unifying question in my work explores the relationship between an ideal's symbolic and ordinary powers.
+
+I've also had the pleasure of directing several undergraduate research projects, generously funded by Dordt University's [Kielstra Center for Research and Grants](https://www.dordt.edu/about-dordt/offices-and-services/academic-centers/kielstra-center-research-and-grants).
+
+
+For more, including a list of talks and publications, see my [research page](research.html). For a detailed description of past, ongoing, and future work (including undergraduate research), see my [research statement](docs/Janssen-ResearchStatement.pdf).
+
+
+
+<a rel="me" href="https://mathstodon.xyz/@mkjanssen">Follow me on Mathstodon</a>
+
+
+
+

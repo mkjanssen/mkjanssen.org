@@ -1,0 +1,17 @@
+---
+title: "Teaching Home"
+---
+
+For information about my courses, see below (or, if you're a student, consult our Canvas page).
+
+### Fall 2023
+
+- [Stat 203: Generalized Linear Models](courses/glm/glm_f23.html)
+- [Math 311: Real Analysis](courses/ra/ra_f23.html)
+- [Math 390: History of Mathematics](courses/hom/hom_f23.html)
+
+### Spring 2023
+
+- [Math 149: Explorations in Modern Mathematics](syllabi/Math149_01Syllabus2023S.pdf), a liberal arts math course
+- [Math 152: Calculus I](syllabi/Math152_01Syllabus2023S.pdf)
+- [Math 212: Discrete Structures](syllabi/Math212_01Syllabus2023S.pdf), an introduction to proof

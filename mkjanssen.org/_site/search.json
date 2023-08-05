@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I live in Sioux Center, IA, with my wife, daughter, son, and cat. My wife says that I can make anything nerdy, which I take as a badge of honor. My nerdy hobbies include:\n\nDistance running\nIn November 2019 I decided to go for a run. I couldn’t walk the next day, but I was hooked. As of the end of 2022, I’ve run six half marathons and three marathons, with one of each planned for 2023.\n\n\nTabletop gaming\nI’ve played board games with my wife and friends for years, but recently jumped into the deep end of modern hobbyist gaming. My current favorites are Terraforming Mars, anything by Splotter, and the genre of 18xx train games.\nAs of summer 2023, I’m trying to learn chess."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "You have reached the homepage of Dr. Mike Janssen, Associate Professor of Mathematics at Dordt University."
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Welcome!",
+    "section": "Teaching",
+    "text": "Teaching\nI have taught a wide variety of mathematics courses throughout my 15 years in higher education. My courses aim to create space in which students are offered the experience of doing mathematics. I want them to deeply understand that mathematics is a cultural activity practiced by particular people in a particular time and place. Thus, I want my students to experience mathematics as working mathematicians do: the questioning, the struggle, and ultimately, the joy of discovery.\nTo that end, I incorporate active/inquiry-based learning in (nearly) all of my classes. The particular type of active learning depends a great deal on the students and the class, but students who take part in my courses should know that they will be expected to dig deeply, struggle, and learn a lot.\nI am also interested in the use of alternative assessment practices in my courses to encourage a growth mindset and student mastery of core concepts.\nFor more, see my teaching page or my teaching statement."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Welcome!",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research interests are varied. Mathematically, they could broadly be described as exploring the connections between commutative algebra (usually symbolic powers of homogeneous ideals) and other areas of mathematics, including algebraic geometry and graph theory. A unifying question in my work explores the relationship between an ideal’s symbolic and ordinary powers.\nI’ve also had the pleasure of directing several undergraduate research projects, generously funded by Dordt University’s Kielstra Center for Research and Grants.\nFor more, including a list of talks and publications, see my research page. For a detailed description of past, ongoing, and future work (including undergraduate research), see my research statement.\nFollow me on Mathstodon"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching Home",
+    "section": "",
+    "text": "For information about my courses, see below (or, if you’re a student, consult our Canvas page).\n\nFall 2023\n\nStat 203: Generalized Linear Models\nMath 311: Real Analysis\nMath 390: History of Mathematics\n\n\n\nSpring 2023\n\nMath 149: Explorations in Modern Mathematics, a liberal arts math course\nMath 152: Calculus I\nMath 212: Discrete Structures, an introduction to proof"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My scholarly interests lie in three main areas: the intersections of commutative algebra, algebraic geometry, and graph theory; games on graphs; and scholarly teaching, including the use of mastery assessments and inquiry-based learning."
+  },
+  {
+    "objectID": "oer.html",
+    "href": "oer.html",
+    "title": "OER",
+    "section": "",
+    "text": "I’ve contributed to two open educational resources:\nRings with Inquiry, an inquiry-oriented introduction to modern algebra via ring theory.\nExplorations in Modern Mathematics, an inquiry-oriented text for a liberal arts math course."
+  },
+  {
+    "objectID": "ra.html",
+    "href": "ra.html",
+    "title": "Math 311: Real Analysis",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "glm.html",
+    "href": "glm.html",
+    "title": "Stat 203: Generalized Linear Models",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "hom.html",
+    "href": "hom.html",
+    "title": "Math 390: History of Math",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "courses/glm/glm.html",
+    "href": "courses/glm/glm.html",
+    "title": "Stat 203: Generalized Linear Models",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "courses/glm/glm_f23.html",
+    "href": "courses/glm/glm_f23.html",
+    "title": "Stat 203: Generalized Linear Models",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "courses/ra/ra_f23.html",
+    "href": "courses/ra/ra_f23.html",
+    "title": "Math 311: Real Analysis",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "courses/hom/hom_f23.html",
+    "href": "courses/hom/hom_f23.html",
+    "title": "Math 390: History of Math",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "research.html#scholarly-interests",
+    "href": "research.html#scholarly-interests",
+    "title": "Research",
+    "section": "",
+    "text": "My scholarly interests lie in two main areas: the intersections of commutative algebra, algebraic geometry, and graph theory; and, scholarly teaching, including the use of mastery assessments and inquiry-based learning.\n\n\nMy dissertation research was in the exploration of the so-called containment problem. In its most general form, one may ask, given a homogeneous ideal \\(I\\), for which \\(m\\) and \\(r\\) is the symbolic power \\(I^{(m)}\\) contained in the ordinary power \\(I^r\\)? In addition to exploring this question in my dissertation in the context of algebraic geometry, I explored a related question in the context of edge ideals \\(I(G)\\). In that case, certain invariants of \\(I\\) related to invariants of the underlying (simple) graph \\(G\\).\n\n\n\nI am also very interested in the use of research-based methods for teaching and assessment. As I describe elsewhere, I am a proponent of active learning (thought of broadly) in all my courses, and I am also interested in the use of low-stakes, mastery-based assessments tied to clear standards for the purposes of encouraging mastery of fundamental skills and the development of a growth mindset in mathematics.\nI compiled some WeBWorK-based preview activities for an elementary linear algebra course."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nComparing Powers of Edge Ideals, J. Alg. Appl., Vol. 18, No. 10 (2019) (with T. Kamp and J. Vander Woude)\nMastery-based testing in undergraduate mathematics, PRIMUS, Vol. 25, No. 5, 441-460 (2019). (with J.B. Collins, A. Harsy, J. Hart, K. Haymaker, A. Hoofnagle, J. Stewart Kelly, A. Mohr, J. OShaughnessy)\nStart a Math Teacher Circle: Connect K-12 Teachers with Engaging, Approachable, and Meaningful Mathematical Problems, The 21st Proceedings of the Association of Christians in the Mathematical Sciences. (with T. Clark, A. Harsy, D. Klanderman, M. Maxwell, S. Robbert)\nThe Waldschmidt constant for squarefree monomial ideals, J. Algbr Comb, 2016, (with C. Bocci, S. Cooper, E. Guardo, B. Harbourne, U. Nagel, A. Seceleanu, A. Van Tuyl, and T. Vu)\nOn the Fattening of Lines in \\(\\mathbf{P}^3\\), Journal of Pure and Applied Algebra, 219(4):1055–1061, 2015,\nContainment problem for points on a reducible conic in \\(\\mathbf{P}^2\\), Journal of Algebra, 394(0):120–138, 2013, (with A. Denkert)"
+  },
+  {
+    "objectID": "research.html#talkspresentations",
+    "href": "research.html#talkspresentations",
+    "title": "Research",
+    "section": "Talks/Presentations",
+    "text": "Talks/Presentations\n\nOn Symbolic Powers of Ideals, Conference on Unexpected and Asymptotic Properties of Algebraic Varieties, University of Nebraska-Lincoln, August 2023\nA first experience in a flipped Calculus II course, MAA Themed Contributed Paper Session on Flipped Classes: Implementation and Evaluation; Joint Mathematics Meetings; San Diego, CA, January 2018\nCut Your Cake (And Eat It, Too!), MAA Themed Contributed Paper Session on ``My Favorite Math Circle Problem’’; MathFest 2017; Chicago, IL, July 2017\nAn Overview of Specifications Grading, 21st ACMS Biennial Conference; Charleston Southern University, Charleston, SC, May 2017\nMy Favorite Math Circle Problem: Cut Your Cake (And Eat It, Too!), 21st ACMS Biennial Conference; Charleston Southern University, Charleston, SC, May 2017\nSpecifications Grading in a First Course in Abstract Algebra, MAA Themed Contributed Paper Session on ``Teaching Abstract Algebra: Topics and Techniques’’; Joint Mathematics Meetings 2017; Atlanta, GA, January 2017\nImproving proof-writing with reading guides, MAA Themed Contributed Paper Session on Encouraging Early Career Teaching Innovation; MathFest 2016; Columbus, OH, August 2016\nImplementing Specifications Grading in a Linear Algebra course, MAA Session on Assessing Student Learning: Alternative Approaches; Joint Mathematics Meetings 2016; Seattle, WA, January 2016\nThe importance of \\(\\alpha\\), MAA Invited Paper Session on Concrete Computations in Algebra and Algebraic Geometry; MathFest 2015; Washington, D.C., August 2015\nSymbolic Powers of Ideals: Problems and Progress (15 minutes), 20th ACMS Biennial Conference, Redeemer University College, Ancaster, Ontario, Canada, May 2015\nSymbolic Powers of Ideals: Problems and Progress (50 minutes), Mathematics Seminar; University of South Dakota, March 2015\nOn the Fattening of Lines in \\(\\mathbf{P}^3\\), Oberwolfach Mini-Workshop 1508a, Ideals of Linear Subspaces, Their Symbolic Powers and Waring Problems; Mathematisches Forschungsinstitut Oberwolfach; Oberwolfach, Germany, February 2015\nOn an Application of Bezout’s Theorem, Colloquium; Calvin College, February 2014\nIdeals of almost collinear points in \\(\\mathbb{P}^2\\), Special session on Interactions Between Algebraic Geometry and Commutative Algebra; Summer 2012 Meetings of the Canadian Mathematical Society; Regina, Saskatchewan, June 2012\nContainment problem for ideals of points on a reducible conic, Special session in Algebraic Geometry and Graded Commutative Algebra; Fall 2011 AMS Central sectional meeting; Lincoln, NE, October 2011\nResults on the containment problem of ideals of fat points, Algebraic Geometry Seminar; University of Nebraska-Lincoln, April 2010\nWhat is Algebraic Geometry? (50 minutes), Geometry and Physics on Graphs REU; Canisius College; Buffalo, NY, July 2009\nA Fifteen-Minute Survey of Nonunique Factorization, IMMERSE at the University of Nebraska-Lincoln, July 2008"
+  }
+]

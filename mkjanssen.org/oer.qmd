@@ -1,0 +1,10 @@
+---
+title: "OER"
+sidebar: false
+---
+
+I've contributed to two open educational resources:
+
+[_Rings with Inquiry_](https://ringswithinquiry.org), an inquiry-oriented introduction to modern algebra via ring theory.
+
+[_Explorations in Modern Mathematics_](https://emmath.org), an inquiry-oriented text for a liberal arts math course.

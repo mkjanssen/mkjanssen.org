@@ -3,8 +3,12 @@ title: "Welcome!"
 sidebar: false
 ---
 
-You have reached the homepage of [Dr. Mike Janssen](https://www.dordt.edu/people/mike-janssen), Associate Professor of Mathematics at [Dordt University](http://dordt.edu).
 
+:::::::::::::: {.columns}
+::: {.column width="70%"}
+You have reached the homepage of [Dr. Mike Janssen](https://www.dordt.edu/people/mike-janssen), Professor of Mathematics at [Dordt University](http://dordt.edu). 
+
+View my [CV here](./uploads/MKJVita.pdf).
 
 
 ## Teaching
@@ -15,7 +19,8 @@ To that end, I incorporate [active/inquiry-based learning](http://www.inquirybas
 
 I am also interested in the use of alternative assessment practices in my courses to encourage a growth mindset and student mastery of core concepts.
 
-For more, see my [teaching page](teaching.html) or my [teaching statement](docs/Janssen-TeachingStatement.pdf).
+For more, see my [teaching page](teaching.html) or my [teaching statement](./uploads/Janssen-TeachingStatement.pdf).
+
 
 ## Research Interests
 
@@ -24,7 +29,20 @@ My research interests are varied. Mathematically, they could broadly be describe
 I've also had the pleasure of directing several undergraduate research projects, generously funded by Dordt University's [Kielstra Center for Research and Grants](https://www.dordt.edu/about-dordt/offices-and-services/academic-centers/kielstra-center-research-and-grants).
 
 
-For more, including a list of talks and publications, see my [research page](research.html). For a detailed description of past, ongoing, and future work (including undergraduate research), see my [research statement](docs/Janssen-ResearchStatement.pdf).
+For more, including a list of talks and publications, see my [research page](research.html). For a detailed description of past, ongoing, and future work (including undergraduate research), see my [research statement](./uploads/Janssen-ResearchStatement.pdf).
+
+:::
+::: {.column width="30%"}
+![](./mike.jpg)
+:::
+::::::::::::::
+
+
+
+
+
+
+
 
 
 

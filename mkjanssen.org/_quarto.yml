@@ -18,13 +18,21 @@ website:
     - id: teaching
       title: "Teaching"
       background: light
+      search: true
       collapse-level: 1
-      style: "floating"
-      contents:
-        - teaching.qmd        
-        - courses/glm/glm_f23.qmd
-        - courses/ra/ra_f23.qmd
-        - courses/hom/hom_f23.qmd
+      style: "floating"      
+      contents:        
+        - teaching.qmd         
+        - section: "Spring 2024"
+          contents:
+            - courses/ds/ds_s24.qmd 
+        - section: "Fall 2023"
+          contents:
+            - courses/glm/glm_f23.qmd
+            - courses/ra/ra_f23.qmd
+            - courses/hom/hom_f23.qmd
+        
+      
       
 format:
   html:

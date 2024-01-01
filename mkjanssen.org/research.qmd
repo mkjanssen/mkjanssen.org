@@ -7,14 +7,20 @@ sidebar: false
 My scholarly interests lie in three main areas: the intersections of commutative algebra, algebraic geometry, and graph theory; games on graphs; and scholarly teaching, including the use of mastery assessments and inquiry-based learning.
 
 
+
 ### Mathematics
 
-My dissertation research was in the exploration of the so-called containment problem. In its most general form, one may ask, given a homogeneous ideal $I$, for which $m$ and $r$ is the symbolic power $I^{(m)}$ contained in the ordinary power $I^r$? In addition to exploring this question in my dissertation in the context of algebraic geometry, I explored a related question in the context of edge ideals $I(G)$. In that case, certain invariants of $I$ related to invariants of the underlying (simple) graph $G$.
+My dissertation research was in the exploration of the so-called containment problem. In its most general form, one may ask, given a homogeneous ideal $I$, for which $m$ and $r$ is the symbolic power $I^{(m)}$ contained in the ordinary power $I^r$? In addition to exploring this question in my dissertation in the context of algebraic geometry, I explored a related question in the context of edge ideals $I(G)$. In that case, certain invariants of $I$ related to invariants of the underlying graph $G$.
 
+Alongside some undergraduate students, I've also explored games on graphs, particularly the Game of Cycles, first described by Francis Su in his book, _Mathematics for Human Flourishing_.
+
+#### Note to students
+
+If you are an undergraduate and interested in research, please reach out! While it's probably best if you've had at least one proof-based mathematics course (such as Dordt's Math 212), it's not a requirement. Let me know you're interested, and we'll see what we can find.
 
 ### Scholarly teaching
 
-I am also very interested in the use of research-based methods for teaching and assessment. As I describe [elsewhere](teaching), I am a proponent of active learning (thought of broadly) in all my courses, and I am also interested in the use of low-stakes, mastery-based assessments tied to clear standards for the purposes of encouraging mastery of fundamental skills and the development of a growth mindset in mathematics.
+I am also very interested in the use of research-based methods for teaching and assessment. As I describe [elsewhere](./teaching.html), I am a proponent of active learning (thought of broadly) in all my courses, and I am also interested in the use of low-stakes, mastery-based assessments tied to clear standards for the purposes of encouraging mastery of fundamental skills and the development of a growth mindset in mathematics.
 
 
 

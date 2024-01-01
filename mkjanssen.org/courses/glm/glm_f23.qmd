@@ -2,4 +2,37 @@
 title: "Stat 203: Generalized Linear Models"
 ---
 
-About this site
+## Syllabus
+
+[Download the syllabus.](../../syllabi/Stat203_01Syllabus2023F.pdf)
+
+## Slides
+
+- [Stat 203 Lecture 1: Course Intro and Exploring Data](https://prof.mkjanssen.org/glm/S203_Lecture01.html)
+- [Stat 203 Lecture 2: Plotting Data/Two Components of a Statistical Model](https://prof.mkjanssen.org/glm/S203_Lecture02.html)
+- [Stat 203 Lecture 3: Regression Models](https://prof.mkjanssen.org/glm/S203_Lecture03.html)
+- [Stat 203 Lecture 4: Intro to Linear Regression](https://prof.mkjanssen.org/glm/S203_Lecture04.html)
+- [Stat 203 Lecture 5: Simple Linear Regression](https://prof.mkjanssen.org/glm/S203_Lecture05.html)
+- [Stat 203 Lecture 6: Multiple Linear Regression](https://prof.mkjanssen.org/glm/S203_Lecture06.html)
+- [Stat 203 Worksheet 7: Fitting Linear Regression Using `R`](https://prof.mkjanssen.org/glm/S203_Worksheet07.html)
+- [Stat 203 Worksheet 8: Comparing Linear Regression Models](https://prof.mkjanssen.org/glm/S203_Worksheet08.html)
+- [Stat 203 Worksheet 9: Diagnostics, Residuals, and Leverages](https://prof.mkjanssen.org/glm/S203_Worksheet09.pdf)
+- [Stat 203 Worksheet 10: Exploring Assumptions](https://prof.mkjanssen.org/glm/S203_Worksheet10.html)
+- [Stat 203 Worksheet 11: Outliers and Influential Observations](https://prof.mkjanssen.org/glm/S203_Worksheet11.html)
+- [Stat 203 Lecture 12: Transforming the Response](https://prof.mkjanssen.org/glm/S203_Worksheet12.html)
+- [Stat 203 Lecture 13: Transforming Covariates](https://prof.mkjanssen.org/glm/S203_Worksheet13.html)
+- [Stat 203 Lecture 14: Polynomial Trends, Regression Splines, and Fixing Problems](https://prof.mkjanssen.org/glm/S203_Worksheet14.html)
+- [Stat 203 Lecture 16: MLE for One Parameter](https://prof.mkjanssen.org/glm/S203_Worksheet16.html)
+- [Stat 203 Lecture 17: MLE for More than One Parameter / Properties of MLEs](https://prof.mkjanssen.org/glm/S203_Worksheet17.html)
+- [Stat 203 Lecture 18: Hypothesis Testing for One Parameter](https://prof.mkjanssen.org/glm/S203_Worksheet18.html)
+- [Stat 203 Lecture 19: Two Components of a GLM](https://prof.mkjanssen.org/glm/S203_Lecture19.html)
+- [Stat 203 Lecture 20: Structural Properties of EDMs](https://prof.mkjanssen.org/glm/S203_Lecture20.html)
+- [Stat 203 Lecture 21: EDMs in Dispersion Model Form and Unit Deviance](https://prof.mkjanssen.org/glm/S203_Lecture21.html)
+- [Stat 203 Lecture 22: GLMs in General and Total Deviance](https://prof.mkjanssen.org/glm/S203_Lecture22.html)
+- [Stat 203 Lecture 23: Explorations I](https://prof.mkjanssen.org/glm/S203_Lecture23.html)
+- [Stat 203 Lecture 24: Models for Proportions](https://prof.mkjanssen.org/glm/S203_Lecture24.html)
+- [Stat 203 Lecture 25: Odds, Odds Ratios, and the Logit Link](https://prof.mkjanssen.org/glm/S203_Lecture25.html)
+- [Stat 203 Exploration 26: Exploring a Health Expenditures Dataset](https://prof.mkjanssen.org/glm/S203_Lecture26.html)
+- [Stat 203 Lecture 27: Overdispersion and Goodness-of-Fit](https://prof.mkjanssen.org/glm/S203_Lecture27.html)
+- [Stat 203 Lecture 28: Case Study](https://prof.mkjanssen.org/glm/S203_Lecture28.html)
+- [Stat 203 Lecture 29: Assumptions for GLMs / Residuals](https://prof.mkjanssen.org/glm/S203_Lecture29.html)

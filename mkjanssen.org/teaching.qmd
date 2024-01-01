@@ -4,6 +4,13 @@ title: "Teaching Home"
 
 For information about my courses, see below (or, if you're a student, consult our Canvas page).
 
+### Spring 2024
+
+- [Math 149: Explorations in Modern Math](courses/emm/emm_s24.html)
+- [Math 207: Number Theory](courses/nt/nt_s24.html)
+- [Math 212: Discrete Structures](courses/ds/ds_s24.html)
+- [Math 303: Advanced Linear Algebra](courses/ala/ala_s24.html)
+
 ### Fall 2023
 
 - [Stat 203: Generalized Linear Models](courses/glm/glm_f23.html)

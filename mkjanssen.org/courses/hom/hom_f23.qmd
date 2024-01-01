@@ -2,4 +2,40 @@
 title: "Math 390: History of Math"
 ---
 
-About this site
+## Syllabus
+
+[Download the syllabus.](../../syllabi/Math390_01Syllabus2023F.pdf)
+
+## Slides
+
+Slides from each lecture (as numbered in the syllabus) are available via the links below.
+
+- [Lecture 1	HoM in a Large Nutshell](https://prof.mkjanssen.org/hom/M390_Lecture01.html)
+- [Lecture 2	Egyptian Math](https://prof.mkjanssen.org/hom/M390_Lecture02.pdf)
+- [Lecture 3	Mesopotamian Math](https://prof.mkjanssen.org/hom/M390_Lecture03.pdf)
+- [Lecture 4	Pre-Euclidean Math](https://prof.mkjanssen.org/hom/M390_Lecture04.html)
+- [Lecture 5	Greek Philosophy of Math](https://prof.mkjanssen.org/hom/M390_Lecture05.html)
+- [Lecture 6	Euclid](https://prof.mkjanssen.org/hom/M390_Lecture06.html)
+- [Lecture 7	Archimedes; Greek conics and trig](https://prof.mkjanssen.org/hom/M390_Lecture07.html)
+- [Lecture 8	Late Greek Math](https://prof.mkjanssen.org/hom/M390_Lecture08.html)
+- [Lecture 9	Chinese Arithmetic and Linear Algebra](https://prof.mkjanssen.org/hom/M390_Lecture09.pdf)
+- [Lecture 10	Indian Arithmetic and Algebra](https://prof.mkjanssen.org/hom/M390_Lecture10.pdf)
+- [Lecture 11	Arabic Arithmetic and Algebra: al-Khwarizmi](https://prof.mkjanssen.org/hom/M390_Lecture11.pdf)
+- [Lecture 12	Medieval Arithmetic and Algebra: Fibonacci](https://prof.mkjanssen.org/hom/M390_Lecture12.pdf)
+- [Lecture 13	16th Century Algebra: Fibonacci and Jordanus/Developments in Algebra](https://prof.mkjanssen.org/hom/M390_Lecture13.pdf)
+- [Lecture 14	Developments in Algebra: Bombelli, Viete](https://prof.mkjanssen.org/hom/M390_Lecture14.pdf)
+- [Lecture 15	Developments in Algebra: Fermat and Descartes](https://prof.mkjanssen.org/hom/M390_Lecture15.pdf)
+- [Lecture 16	Calculus: Beginnings](https://prof.mkjanssen.org/hom/M390_Lecture16.pdf)
+- [Lecture 17	Calculus: Newton](https://prof.mkjanssen.org/hom/M390_Lecture17.pdf)
+- [Lecture 18	Calculus: Leibniz](https://prof.mkjanssen.org/hom/M390_Lecture18.pdf)
+- [Lecture 19	Foundations of Calculus](https://prof.mkjanssen.org/hom/M390_Lecture19.pdf)
+- [Lecture 20	Probability](https://prof.mkjanssen.org/hom/M390_Lecture20.pdf)
+- [Lecture 21	Geometry and the Parallel Postulate](https://prof.mkjanssen.org/hom/M390_Lecture21.html)
+- [Lecture 22	Modern Algebra](https://prof.mkjanssen.org/hom/M390_Lecture22.pdf)
+- [Lecture 23	Non-Euclidean Geometry](https://prof.mkjanssen.org/hom/M390_Lecture23.pdf)
+- [Lecture 24	Axioms and Set Theory](https://prof.mkjanssen.org/hom/M390_Lecture24.pdf)
+- [Lecture 25	Logic and Logicism](https://prof.mkjanssen.org/hom/M390_Lecture25.pdf)
+- [Lecture 26	Formalism](https://prof.mkjanssen.org/hom/M390_Lecture26.pdf)
+- [Lecture 27	Statistics and Computation](https://prof.mkjanssen.org/hom/M390_Lecture27.pdf)
+- [Lecture 28	Recent Developments in Mathematics](https://prof.mkjanssen.org/hom/M390_Lecture28.pdf)
+- [Lecture 29	Women in Math](https://prof.mkjanssen.org/hom/M390_Lecture29.html)

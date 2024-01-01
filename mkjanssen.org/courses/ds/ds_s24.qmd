@@ -1,0 +1,5 @@
+---
+title: "Math 212: Discrete Structures"
+---
+
+View [our course notes](https://prof.mkjanssen.org/ds)

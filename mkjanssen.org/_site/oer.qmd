@@ -1,7 +1,0 @@
----
-title: "OER"
----
-
-I've contributed to two open educational resources:
-
-[_Rings with Inquiry](https://ringswithinquiry.org)

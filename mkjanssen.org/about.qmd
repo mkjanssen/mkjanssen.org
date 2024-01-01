@@ -1,16 +1,23 @@
 ---
 title: "About Me"
 sidebar: false
+about:
+  template: solana
+  image: harvesthalf23.jpg
 ---
 
 I live in Sioux Center, IA, with my wife, daughter, son, and cat. My wife says that I can make anything nerdy, which I take as a badge of honor. My nerdy hobbies include:
 
 ### Distance running
 
-In November 2019 I decided to go for a run. I couldn't walk the next day, but I was hooked. As of the end of 2022, I've run six half marathons and three marathons, with one of each planned for 2023.
+In November 2019 I decided to go for a run. I couldn't walk the next day, but I was hooked. As of the end of 2023, I've run eight half marathons and three marathons[^1]. I'm aiming to return to [Grandma's Marathon](https://grandmasmarathon.com) in 2024.
+
+[^1]: I've registered for two other marathons and had them canceled the morning they were to take place, so beware if we are planning to run the same race!
 
 ### Tabletop gaming
 
 I've played board games with my wife and friends for years, but recently jumped into the deep end of modern hobbyist gaming. My current favorites are [Terraforming Mars](https://boardgamegeek.com/boardgame/167791/terraforming-mars), anything by [Splotter](https://splottershop.com), and the genre of [18xx train games](https://18xx.games).
 
-As of summer 2023, I'm trying to learn chess.
+### Past hobbies
+
+In grad school, I got into homebrewing beer. I'll still occasionally get the itch to make something, but finding time has been a challenge.

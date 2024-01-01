@@ -1,0 +1,14 @@
+---
+title: "Math 303: Advanced Linear Algebra"
+---
+
+## Syllabus
+
+Forthcoming.
+<!-- [Download the syllabus.](../../syllabi/Math303_01Syllabus2024S.pdf) -->
+
+## Slides
+
+_To-do_ Slides from each lecture (as numbered in the syllabus) are available via the links below.
+
+

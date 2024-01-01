@@ -19,13 +19,16 @@ website:
       title: "Teaching"
       background: light
       search: true
-      collapse-level: 1
+      collapse-level: 2
       style: "floating"      
       contents:        
         - teaching.qmd         
         - section: "Spring 2024"
           contents:
-            - courses/ds/ds_s24.qmd 
+            - courses/emm/emm_s24.qmd
+            - courses/nt/nt_s24.qmd
+            - courses/ds/ds_s24.qmd
+            - courses/ala/ala_s24.qmd 
         - section: "Fall 2023"
           contents:
             - courses/glm/glm_f23.qmd

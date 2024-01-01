@@ -3,9 +3,8 @@ title: "Welcome!"
 sidebar: false
 ---
 
+![](./mike.jpg)
 
-:::::::::::::: {.columns}
-::: {.column width="70%"}
 You have reached the homepage of [Dr. Mike Janssen](https://www.dordt.edu/people/mike-janssen), Professor of Mathematics at [Dordt University](http://dordt.edu). 
 
 View my [CV here](./uploads/MKJVita.pdf).
@@ -31,11 +30,9 @@ I've also had the pleasure of directing several undergraduate research projects,
 
 For more, including a list of talks and publications, see my [research page](research.html). For a detailed description of past, ongoing, and future work (including undergraduate research), see my [research statement](./uploads/Janssen-ResearchStatement.pdf).
 
-:::
-::: {.column width="30%"}
-![](./mike.jpg)
-:::
-::::::::::::::
+
+
+
 
 
 

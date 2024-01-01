@@ -3,7 +3,7 @@ title: "About Me"
 sidebar: false
 about:
   template: solana
-  image: harvesthalf23.jpg
+  image: harvest_half23.jpeg
 ---
 
 I live in Sioux Center, IA, with my wife, daughter, son, and cat. My wife says that I can make anything nerdy, which I take as a badge of honor. My nerdy hobbies include:
